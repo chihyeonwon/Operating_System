@@ -184,4 +184,10 @@ CPU는 기계 사이클 마지막 주기인 인터럽트 사이클(Interrupt Cyc
 트랩이라고 부르기도 한다.
 ```
 
+## 이중 모드 연산(Dual Mode Operation)
+```
+사용자 모드(사용자 프로그램 실행 모드)와 시스템 모드(운영체제 실행 모드)가 식별되는 경우를 이중 모드 연산
+(Dual Mode Operation)이라 하고, 시스템 모드에서만 실행 가능한 기계 명령어를 특권 명령어(Privileged Instruction)라 한다.
+```
+
 ```
