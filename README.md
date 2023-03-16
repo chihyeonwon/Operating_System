@@ -150,3 +150,9 @@ CPU 레지스터는 주로 연산을 위한 피연산자의 임시 저장 용도
 상대(Relative), 주소(Address), 상수(Constant) 관점에서 분류된다.
 ```
 
+## 인터럽트(Interrupt)
+```
+인터럽트가 발생하면 CPU는 처리 중이던 명령어 순서를 보관한 후, 사전에 설정된 주소로 점프하여 새로운 처리를 시작하게 되는데,
+이 부분을 인터럽트 서비스 루틴(ISR: Interrupt Service Routine) 혹은 인터럽트 핸들러(Interrupt Handler)라 부른다.
+```
+
