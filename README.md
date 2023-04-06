@@ -367,5 +367,8 @@ fork 부모는 fork > 0 자식은 fork = 0 if(fork = 0)이라면 새로운 프�
 
 ## 4장 프로세스 및 스레드 관리 과제
 
-prog_04_10.c
+### prog_04_10.c
 ![image](https://user-images.githubusercontent.com/58906858/230433497-18a1bf3f-660f-42e9-9a80-75fde3e9adcf.png)
+
+### prog_04_11.c
+![image](https://user-images.githubusercontent.com/58906858/230434198-f40abb34-dad9-4f7b-b2f5-59681d63909e.png)
