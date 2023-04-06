@@ -364,3 +364,8 @@ thread_join 스레드가 종료될 때까지 기다림
 
 fork 부모는 fork > 0 자식은 fork = 0 if(fork = 0)이라면 새로운 프로그램을 적재하면 프로그램을 덮어쓰게 됨
 ```
+
+## 4장 프로세스 및 스레드 관리 과제
+
+prog_04_10.c
+![image](https://user-images.githubusercontent.com/58906858/230433497-18a1bf3f-660f-42e9-9a80-75fde3e9adcf.png)
