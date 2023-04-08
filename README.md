@@ -372,3 +372,11 @@ fork 부모는 fork > 0 자식은 fork = 0 if(fork = 0)이라면 새로운 프�
 
 ### prog_04_11.c
 ![image](https://user-images.githubusercontent.com/58906858/230434198-f40abb34-dad9-4f7b-b2f5-59681d63909e.png)
+
+## 프로세스 간 통신(Inter-Process Communication : IPC)
+```
+프로세스들은 완전히 분리 독립되어 있어서 서로 간에 간섭하거나 정보를 주고 받을 수 없다.
+거대한 프로그램을 여러 개의 작은 프로그램으로 분리할 경우, 이들 사이에는 통신할 수 있는 수단이
+필요하게 되는데,이를 프로세스 간 통신(IPC, Inter-Process Communication)이라 부른다.
+IPC의 대표적인 예로, 파이프, 메시지 큐, 공유 메모리, 세마포, 소켓 등을 들 수 있다.
+```
